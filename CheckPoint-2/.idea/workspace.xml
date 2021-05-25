@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2172e65d-6160-4250-8333-d5c3b36d3234" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Service/ColorGenerator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/View/Cupcake/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Controller/AccessoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Controller/AccessoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Controller/CupcakeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Controller/CupcakeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Model/AccessoryManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Model/AccessoryManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Model/CupcakeManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/Model/CupcakeManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/View/Accessory/_form.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/View/Accessory/_form.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/View/Accessory/list.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/View/Accessory/list.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/View/Cupcake/_form.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/src/View/Cupcake/_form.html.twig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21" />
+  </component>
+  <component name="ProjectId" id="1sKoc59R3hExITRybZ0FC1dFztR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PHP/PhpstormProjects/PDO" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/php_checkpoint2_bordeaux_march21/config" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2172e65d-6160-4250-8333-d5c3b36d3234" name="Default Changelist" comment="" />
+      <created>1620630717830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620630717830</updated>
+      <workItem from="1620630719138" duration="529000" />
+      <workItem from="1620631260423" duration="11240000" />
+      <workItem from="1620644067052" duration="2502000" />
+      <workItem from="1620732423925" duration="2260000" />
+      <workItem from="1620754334734" duration="618000" />
+      <workItem from="1621344937418" duration="18647000" />
+      <workItem from="1621434315609" duration="92000" />
+      <workItem from="1621435166712" duration="10095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
