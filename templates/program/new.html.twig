@@ -28,8 +28,13 @@
             {{ form_widget(form.category) }}
         </div>
 
+        <div class="form-group py-4">
+            {{ form_label(form.actors) }}
+            {{ form_widget(form.actors) }}
+        </div>
+
         <div>
-        <input class="btn btn-primary mt-3 py-4" type='submit' value='Add category'>
+        <input class="btn btn-primary mt-3 py-4" type='submit' value='Add program'>
         {{ form_end(form) }}
         </div>
 
