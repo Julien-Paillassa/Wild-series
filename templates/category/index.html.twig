@@ -12,7 +12,11 @@
         Aucune catégorie trouvée.
     {% endfor %}
 
-    <a href="{{ path('app_index') }}">
-        Retour à l'accueil
-    </a>
+    <div>
+        <a href="{{ path('category_new') }}">Ajout d'un nouveau programme</a>
+    </div>
+
+    <div>
+        <a href="{{ path('app_index') }}">Retour à l'accueil</a>
+    </div>
 {% endblock %}
